@@ -38,5 +38,5 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass.set("MyTest.AppKt")
+    mainClass.set("first_kotlin_app.AppKt")
 }
